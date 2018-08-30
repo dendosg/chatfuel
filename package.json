@@ -1,0 +1,23 @@
+{
+  "name": "chatfuel",
+  "version": "1.2.0",
+  "description": "",
+  "main": "./lib/chatfuel",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatfuel",
+    "chatbot",
+    "messenger",
+    "facebook",
+    "chat",
+    "bot",
+    "ai"
+  ],
+  "bin": {
+    "chatfuel": "./bin/chatfuel"
+  },
+  "author": "kinhdomcom",
+  "license": "ISC"
+}
