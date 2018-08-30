@@ -4,6 +4,19 @@
 <h2>Usage</h2>
 <code>const chatfuel = require('chatfuel')</code>
 <hr>
+<h2>API Reference</h2>
+<ul style="margin: 20px" >
+    <li> <a href="#send-text">
+        Send Text
+    </a></li>
+    <li> <a href="#send-image">
+        Send Image
+    </a></li>
+    <li> <a href="#send-video">
+        Send Video
+    </a></li>
+</ul>
+<hr>
 <h3>Send Text</h3>
 <code>messages.push(chatfuel.sendText({ text: 'Hello' }))</code> <br>
 <code>messages.push(chatfuel.sendText({ text: 'Welcome to chatfuel' }))</code>
