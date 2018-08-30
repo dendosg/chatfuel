@@ -5,16 +5,20 @@
 <code>const chatfuel = require('chatfuel')</code>
 <hr>
 <h2>API Reference</h2>
-<ul style="margin: 20px" >
-    <li> <a href="#send-text">
-        Send Text
-    </a></li>
-    <li> <a href="#send-image">
-        Send Image
-    </a></li>
-    <li> <a href="#send-video">
-        Send Video
-    </a></li>
+<ul style="margin: 20px">
+    <li><a href="#send-text"> Send Text </a></li>
+    <li><a href="#send-image"> Send Image </a></li>
+    <li><a href="#send-video"> Send Video </a></li>
+    <li><a href="#send-audio">Send Audio</a></li>
+    <li><a href="#send-file">Send File</a></li>
+    <li><a href="#send-galleries">Send Galleries</a></li>
+    <li><a href="#send-list">Send List</a></li>
+    <li><a href="#create-button-to-block">Create Button To Block</a></li>
+    <li><a href="#create-button-to-url">Create Button To URL</a></li>
+    <li><a href="#create-call-button">Create Call Button</a></li>
+    <li><a href="#create-postback-button">Create Postback Button</a></li>
+    <li><a href="#create-quick-reply-button">Create Quick Reply Button</a></li>
+    <li><a href="#create-share-button">Create Share Button</a></li>
 </ul>
 <hr>
 <h3>Send Text</h3>
